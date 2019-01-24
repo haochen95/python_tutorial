@@ -7,6 +7,8 @@
 * Pandas  
 * Scipy  
 * Scikit-learn  
+  * [Regression](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Scikit-learn/Scikit-learning-Regression.ipynb)
+  * [Classification](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Scikit-learn/Scikit-learning-Classification.ipynb)
 * Deep-learning  
   * tensorflow  
   * theano  

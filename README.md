@@ -22,3 +22,21 @@
 * Python爬虫  
   * Request  
   * Scrapy
+
+
+
+# <span id = "matplotlib">Matplotlib</span>  
+
+![](https://matplotlib.org/_static/logo2.png)
+
+| 方法| 说明|  
+|-----|-----|
+| 子图的绘制| subplot,subplots|
+| Scatter||  
+|  chart||  
+| Hist chart||  
+| Pie chart||  
+| Box chart||
+| Text标注||  
+| Plot高级||  
+| 其他||

@@ -4,7 +4,7 @@
 
 * Python语法  
 * [Numpy](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Numpy/numpy.ipynb)  
-* Pandas  
+* [Pandas](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Pandas/pandas.ipynb)  
 * Scipy  
 * Scikit-learn  
   * [Regression](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Scikit-learn/Scikit-learning-Regression.ipynb)
@@ -45,7 +45,7 @@
 
 Feel free to contact me to discuss any issues, questions, or comments.  
 
-* Email: [haochen273@gmail.com](maito:haochen273@gmail.com)
+* Email: [haochen273@gmail.com](mailto:haochen273@gmail.com)
 * Blog: [Unknown404](https://www.cnblogs.com/haochen273/)
 * GitHub: [haochen95](https://github.com/haochen95)
 
@@ -53,11 +53,8 @@ Feel free to contact me to discuss any issues, questions, or comments.
 
 # Licese  
 
-This repository contains a variety of content; some developed by Donne Martin, and some from third-parties. The third-party content is distributed under the license provided by those parties.
+This repository contains a variety of content; some developed by Hao Chen, and some from third-parties. The third-party content is distributed under the license provided by those parties.
 
-The content developed by Donne Martin is distributed under the following license:
-
-*I am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me*  
 ```text  
 Copyright 2019 Hao Chen
 

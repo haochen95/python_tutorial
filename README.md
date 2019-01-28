@@ -45,7 +45,7 @@
 
 Feel free to contact me to discuss any issues, questions, or comments.  
 
-* Email: [haochen273@gmail.com](maito:haochen273@gmail.com)
+* Email: [haochen273@gmail.com](mailto:haochen273@gmail.com)
 * Blog: [Unknown404](https://www.cnblogs.com/haochen273/)
 * GitHub: [haochen95](https://github.com/haochen95)
 

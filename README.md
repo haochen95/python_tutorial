@@ -3,7 +3,7 @@
 这里主要写一些做科研的时候需要使用到的python软件包的教程，主要包括以下：  
 
 * Python语法  
-* Numpy  
+* [Numpy](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Numpy/numpy.ipynb)  
 * Pandas  
 * Scipy  
 * Scikit-learn  
@@ -15,7 +15,7 @@
   * keras  
   * pyTorch
 * Python可视化  
-  * Matplotlib  
+  * [Matplotlib](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Python_Visualize/Scikit-learn-matplotlib-bar.ipynb)  
   * Seaborn  
   * plotly  
 * Python正则表达式

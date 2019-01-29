@@ -16,7 +16,7 @@
   * pyTorch
 * Python可视化  
   * [Matplotlib](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Python_Visualize/Scikit-learn-matplotlib-bar.ipynb)  
-  * [Seaborn] (https://github.com/haochen95/python_tutorial/blob/master/Python_Visualize/Seaborn.ipynb)  
+  * [Seaborn](https://github.com/haochen95/python_tutorial/blob/master/Python_Visualize/Seaborn.ipynb)  
   * plotly  
 * Python正则表达式
 * Python爬虫  

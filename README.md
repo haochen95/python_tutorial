@@ -50,7 +50,8 @@
 |[mySpider](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/mySpider)|爬取传智播客一页的老师名字、职称和介绍| reponse.xpath, parse, pipeline, yield|  
 |[Tecent](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/tecentJob)|爬取腾讯招聘网页的信息，例如职位名、职位地点、职位个数、职位类别等|scrapy.Request(url. callback = self.parse), 爬取有翻页的网址|  
 |[TencentCrawlSpider](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/tencentCrawlSpider)|上同|CrawlSpider深度爬取的使用|
-|[Dongguan](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/dongguan)|爬出东莞阳光网上面的意见信息|深度爬取，url的内部内容提取|
+|[Dongguan](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/dongguan)|爬出东莞阳光网上面的意见信息|CrawlSpider深度爬取|
+|[dongguanSpider](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/dongguanSpider)|上同|Spider广义爬取|
 
 
 # Contact-info  

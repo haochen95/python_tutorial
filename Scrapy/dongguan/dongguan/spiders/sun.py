@@ -19,9 +19,18 @@ class SunSpider(CrawlSpider):
 
         item = DongguanItem()
 
+
         item['title'] = response.xpath('//div[@class="wzy1"]/table[1]//tr/td[2]/span[1]/text()').extract()[0].split('：')[-1]
-        item['content'] = response.xpath('//div[@class="wzy1"]/table[2]//tr/td/text()').extract()[0]
         item['url'] = response.url
         item['number'] = response.xpath('//div[@class="wzy1"]/table[1]//tr/td[2]/span[2]/text()').extract()[0].split(':')[-1]
+
+        # 是否是图片
+        content_pic = response.xpath('//div[@class="textpic"]/img/@src').extract()
+
+        if len(content_pic)==0:
+            content_no_pic = response.xpath('//div[@class="wzy1"]/table[2]//tr/td/text()').extract()[0]
+            item['content'] = "".join(content_no_pic).replace("\xa0", "")
+        else:
+            item['content'] = "".join(content_pic[0]).replace("\xa0", "")
 
         yield item

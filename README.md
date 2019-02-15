@@ -21,7 +21,11 @@
 * Python正则表达式
 * Python爬虫  
   * Request  
-  * [Scrapy](#scrapy)
+  * [Scrapy](#scrapy)  
+* pygame  
+* pyqt5
+* [其他工具](#qita)  
+
 
 
 
@@ -52,6 +56,50 @@
 |[TencentCrawlSpider](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/tencentCrawlSpider)|上同|CrawlSpider深度爬取的使用|
 |[DongguanCrawlSpider](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/dongguan)|爬出东莞阳光网上面的意见信息|CrawlSpider深度爬取|
 |[dongguanSpider](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/dongguanSpider)|上同|Spider广义爬取|
+
+
+# <span id = "qita">其他工具</span>  
+
+|工具|功能|网址|  
+|---|----|----|  
+|itchat|微信小助手的创建||  
+|wxpy|基于图灵机器人的微信尬聊||
+|pyecharts|高逼格的图表可视化库||
+|turtle|绘图模块||
+|requests|网络请求||
+|click|将一个函数变为一个命令行工具||
+|lxml|HTML/XML解析器||
+|wordcloud|图云||
+|jieba|文本挖掘及分词功能||
+|pdfkit|将文本转为pdf||
+|IPy|IP地址处理模块||
+|cfscrape|加密邮箱||
+|pillow|图片处理模块||
+|js2py|||
+|PIL|||
+|selenium|过驱动浏览器，完全模拟浏览器的操作||
+|pyautogui|python自动化||
+|pyscreenshoot|截屏模块||
+|cv2|opencv模块||
+|fake_useragent|模拟浏览器请求头||
+|pyinstaller|打包py文件||
+|ipaddress|处理IPV4和IPV6的网络地址||  
+|contextlib|上下文管理器功能||  
+|openpyxl|读写Excel||  
+|graphics|图形库||
+|dlib|人脸识别模块||
+|xlrd|读excel||
+|win_unicode_console||
+|snowlp|情感分析||
+|gensim|文章相似度||
+|pywin32|||
+|torch|||
+|torchvision|||
+|gym|强化学习||
+|imageio|图像处理||
+|qrcode|生成二维码||
+
+
 
 
 # Contact-info  

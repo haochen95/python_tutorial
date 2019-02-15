@@ -5,7 +5,7 @@
 * Python语法  
 * [Numpy](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Numpy/numpy.ipynb)  
 * [Pandas](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Pandas/pandas.ipynb)  
-* Scipy  
+* [Scipy](#scrapy)  
 * Scikit-learn  
   * [Regression](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Scikit-learn/Scikit-learning-Regression.ipynb)
   * [Classification](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Scikit-learn/Scikit-learning-Classification.ipynb)
@@ -47,7 +47,7 @@
 
 |案例|说明| 作用 |
 |----|----|---|
-|mySpider|爬取传智播客一页的老师名字、职称和介绍| reponse.xpath, parse, pipeline, yield|
+|[mySpider](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/mySpider)|爬取传智播客一页的老师名字、职称和介绍| reponse.xpath, parse, pipeline, yield|
 
 
 # Contact-info  

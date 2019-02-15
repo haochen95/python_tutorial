@@ -5,7 +5,7 @@
 * Python语法  
 * [Numpy](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Numpy/numpy.ipynb)  
 * [Pandas](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Pandas/pandas.ipynb)  
-* [Scipy](#scrapy)  
+* Scipy  
 * Scikit-learn  
   * [Regression](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Scikit-learn/Scikit-learning-Regression.ipynb)
   * [Classification](https://nbviewer.jupyter.org/github/haochen95/python_tutorial/blob/master/Scikit-learn/Scikit-learning-Classification.ipynb)
@@ -21,7 +21,7 @@
 * Python正则表达式
 * Python爬虫  
   * Request  
-  * [Scrapy](https://github.com/haochen95/python_tutorial/tree/master/Scrapy)
+  * [Scrapy](#scrapy)
 
 
 

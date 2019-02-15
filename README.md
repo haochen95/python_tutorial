@@ -43,12 +43,13 @@
 
 # <span id = "scrapy">Scrapy</span>  
 
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--W8HkPMcb--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/dpf1jzsiy8n1tmdfxn1v.jpg)  
+![](https://blog.scrapinghub.com/hs-fs/hubfs/Imported_Blog_Media/scrapy.png?width=300&name=scrapy.png)  
 
 |案例|说明| 作用 |
 |----|----|---|
 |[mySpider](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/mySpider)|爬取传智播客一页的老师名字、职称和介绍| reponse.xpath, parse, pipeline, yield|  
-|[Tecent](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/tecentJob)|爬取腾讯招聘网页的信息，例如职位名、职位地点、职位个数、职位类别等|scrapy.Request(url. callback = self.parse), 爬取有翻页的网址|
+|[Tecent](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/tecentJob)|爬取腾讯招聘网页的信息，例如职位名、职位地点、职位个数、职位类别等|scrapy.Request(url. callback = self.parse), 爬取有翻页的网址|  
+|TencentCrawlSpider|上同|CrawlSpider深度爬取的使用|
 
 
 # Contact-info  

@@ -56,6 +56,7 @@
 |[TencentCrawlSpider](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/tencentCrawlSpider)|上同|CrawlSpider深度爬取的使用|
 |[DongguanCrawlSpider](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/dongguan)|爬出东莞阳光网上面的意见信息|CrawlSpider深度爬取|
 |[dongguanSpider](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/dongguanSpider)|上同|Spider广义爬取|
+|[douban](https://github.com/haochen95/python_tutorial/tree/master/Scrapy/douban)|爬取豆瓣电影的信息|将内容保存到MongDB数据库中|
 
 
 # <span id = "qita">其他工具</span>  

@@ -65,7 +65,7 @@
 |---|----|----|  
 |itchat|微信小助手的创建||  
 |wxpy|基于图灵机器人的微信尬聊||
-|pyecharts|高逼格的图表可视化库||
+|[pyecharts](https://github.com/haochen95/python_tutorial/tree/master/Others)|高逼格的图表可视化库||
 |turtle|绘图模块||
 |requests|网络请求||
 |click|将一个函数变为一个命令行工具||
